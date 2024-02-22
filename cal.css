@@ -1,0 +1,14 @@
+body{
+    background-image: url("https://img.freepik.com/free-photo/nobody-exterior-wall-page-empty_1258-257.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+button{
+   background-color: rgb(118, 113, 113);
+}
+#result{
+   background-color: rgb(148, 147, 147);
+}
+button:hover{
+             background-color: rgb(201, 193, 193);
+}
